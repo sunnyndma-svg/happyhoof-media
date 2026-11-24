@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400">
+<rect width="640" height="400" fill="#FAEEE4"/>
+<rect x="0.0" y="0.0" width="640.0" height="290.0" rx="0" fill="#F3E9F8" stroke="#2b2420" stroke-width="0.01" stroke-linejoin="round"/>
+<rect x="0.0" y="290.0" width="640.0" height="110.0" rx="0" fill="#D9B88A" stroke="#2b2420" stroke-width="0.01" stroke-linejoin="round"/>
+<rect x="0.0" y="282.0" width="640.0" height="10.0" rx="0" fill="#B58E5E" stroke="#2b2420" stroke-width="0.01" stroke-linejoin="round"/>
+<rect x="80.0" y="290.0" width="480.0" height="14.0" rx="0" fill="#C48A52" stroke="#2b2420" stroke-width="3" stroke-linejoin="round"/>
+<rect x="94.0" y="304.0" width="11.0" height="56.0" rx="0" fill="#7A4F2A" stroke="#2b2420" stroke-width="2" stroke-linejoin="round"/>
+<rect x="535.0" y="304.0" width="11.0" height="56.0" rx="0" fill="#7A4F2A" stroke="#2b2420" stroke-width="2" stroke-linejoin="round"/>
+<rect x="145.2" y="218.4" width="89.6" height="89.6" rx="10" fill="#E98BA5" stroke="#2b2420" stroke-width="3" stroke-linejoin="round"/>
+<rect x="158.0" y="253.6" width="64.0" height="35.2" rx="6" fill="#c6768c" stroke="#2b2420" stroke-width="2" stroke-linejoin="round"/>
+<path d="M 167.6 218.4 Q 190 186.39999999999998 212.4 218.4" fill="none" stroke="#2b2420" stroke-width="3" stroke-linejoin="round"/>
+<rect x="399.2" y="240.4" width="61.6" height="61.6" rx="10" fill="#4486B3" stroke="#2b2420" stroke-width="3" stroke-linejoin="round"/>
+<rect x="408.0" y="264.6" width="44.0" height="24.2" rx="6" fill="#397198" stroke="#2b2420" stroke-width="2" stroke-linejoin="round"/>
+<path d="M 414.6 240.4 Q 430 218.39999999999998 445.4 240.4" fill="none" stroke="#2b2420" stroke-width="3" stroke-linejoin="round"/>
+<rect x="156.0" y="201.0" width="68.0" height="28.0" rx="6" fill="#FFF3B0" stroke="#2b2420" stroke-width="2.5" stroke-linejoin="round"/>
+<text x="190.0" y="222.0" font-size="18" font-weight="900" fill="#2b2420" text-anchor="middle" font-family="Nunito, Arial Rounded MT Bold, Helvetica, sans-serif">500k</text>
+<rect x="396.0" y="216.0" width="68.0" height="28.0" rx="6" fill="#FFF3B0" stroke="#2b2420" stroke-width="2.5" stroke-linejoin="round"/>
+<text x="430.0" y="237.0" font-size="18" font-weight="900" fill="#2b2420" text-anchor="middle" font-family="Nunito, Arial Rounded MT Bold, Helvetica, sans-serif">200k</text>
+<text x="310.0" y="200.0" font-size="50" font-weight="900" fill="#D9534F" text-anchor="middle" font-family="Nunito, Arial Rounded MT Bold, Helvetica, sans-serif">></text>
+</svg>
