@@ -1,6 +1,6 @@
 /*
   Access-Control-Allow-Origin: *
 /flashcards/*
-  Cache-Control: public, max-age=31536000, immutable
+  Cache-Control: public, max-age=86400
 /study/*
-  Cache-Control: public, max-age=31536000, immutable
+  Cache-Control: public, max-age=86400

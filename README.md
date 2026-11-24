@@ -9,7 +9,7 @@ study/img/         hình slide       study/audio/       audio slide
 
 ## Quy ước đặt tên
 - Chữ thường, không dấu, nối bằng gạch dưới: `family_friends_a1_mother.webp`, `animals_a2_giraffe_ex1.m4a`.
-- Không dùng khoảng trắng. **Đã đăng lên thì không đổi tên** (app nhớ theo tên; cache 1 năm). Muốn đổi hình: đặt tên mới.
+- Không dùng khoảng trắng. **Đã đăng lên thì không đổi tên** (app nhớ theo tên). Trình duyệt giữ bản cũ tối đa 1 ngày (`_headers`), nên ghi đè cùng tên thì HS thấy bản mới sau ≤ 1 ngày.
 
 ## Định dạng
 - Hình thẻ Flashcard: **SVG 400×400 (~2–8 KB)** cho biểu tượng + hình tự vẽ; **WebP 400×400 (~20 KB)** chỉ cho cảnh vẽ AI. Từ trừu tượng không có hình. Hình slide: **WebP 640×400, ~30 KB**.
