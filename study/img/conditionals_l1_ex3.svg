@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400">
+<rect width="640" height="400" fill="#FAEEE4"/>
+<rect x="0.0" y="0.0" width="640.0" height="290.0" rx="0" fill="#E9E2F3" stroke="#2b2420" stroke-width="0.01" stroke-linejoin="round"/>
+<rect x="0.0" y="290.0" width="640.0" height="110.0" rx="0" fill="#D9B88A" stroke="#2b2420" stroke-width="0.01" stroke-linejoin="round"/>
+<rect x="0.0" y="282.0" width="640.0" height="10.0" rx="0" fill="#B58E5E" stroke="#2b2420" stroke-width="0.01" stroke-linejoin="round"/>
+<polyline points="520.0,0.0 520.0,70.0" fill="none" stroke="#2b2420" stroke-width="3" stroke-linecap="round"/>
+<path d="M 492 92 Q 498 66 520 64 Q 542 66 548 92 Z" fill="#E9AE1C" stroke="#2b2420" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="520.0" cy="98.0" r="7.0" fill="#FFF3B0" stroke="#2b2420" stroke-width="1.5" stroke-linejoin="round"/>
+<rect x="100.0" y="250.0" width="420.0" height="14.0" rx="0" fill="#C48A52" stroke="#2b2420" stroke-width="3" stroke-linejoin="round"/>
+<rect x="114.0" y="264.0" width="11.0" height="96.0" rx="0" fill="#7A4F2A" stroke="#2b2420" stroke-width="2" stroke-linejoin="round"/>
+<rect x="495.0" y="264.0" width="11.0" height="96.0" rx="0" fill="#7A4F2A" stroke="#2b2420" stroke-width="2" stroke-linejoin="round"/>
+<rect x="190.0" y="232.0" width="70.0" height="18.0" rx="0" fill="#FFFFFF" stroke="#2b2420" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="131.2,224.8 160.0,234.4 160.0,263.2 131.2,253.6" fill="#4486B3" stroke="#2b2420" stroke-width="3.5999999999999996" stroke-linejoin="round"/>
+<polygon points="188.8,224.8 160.0,234.4 160.0,263.2 188.8,253.6" fill="#FFFFFF" stroke="#2b2420" stroke-width="3.5999999999999996" stroke-linejoin="round"/>
+<ellipse cx="330.0" cy="232.0" rx="24.0" ry="22.0" fill="#E3AD7F" stroke="#2b2420" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M 310 224 Q 330 202 352 222 Q 340 214 310 224 Z" fill="#2A2220" stroke="#2b2420" stroke-width="2" stroke-linejoin="round"/>
+<rect x="300.0" y="236.0" width="70.0" height="16.0" rx="8" fill="#4486B3" stroke="#2b2420" stroke-width="2.5" stroke-linejoin="round"/>
+<rect x="400.0" y="224.0" width="70.0" height="24.0" rx="0" fill="#FFFFFF" stroke="#2b2420" stroke-width="2" stroke-linejoin="round"/>
+<text x="436.0" y="244.0" font-size="18" font-weight="900" fill="#D9534F" text-anchor="middle" font-family="Nunito, Arial Rounded MT Bold, Helvetica, sans-serif">3/10</text>
+<text x="380.0" y="180.0" font-size="24" font-weight="900" fill="#2F6A94" text-anchor="middle" font-family="Nunito, Arial Rounded MT Bold, Helvetica, sans-serif">Z</text>
+<text x="410.0" y="150.0" font-size="32" font-weight="900" fill="#2F6A94" text-anchor="middle" font-family="Nunito, Arial Rounded MT Bold, Helvetica, sans-serif">Z</text>
+<text x="445.0" y="118.0" font-size="40" font-weight="900" fill="#2F6A94" text-anchor="middle" font-family="Nunito, Arial Rounded MT Bold, Helvetica, sans-serif">Z</text>
+</svg>

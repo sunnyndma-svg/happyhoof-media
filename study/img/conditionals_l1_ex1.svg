@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400">
+<rect width="640" height="400" fill="#FAEEE4"/>
+<rect x="0.0" y="0.0" width="640.0" height="400.0" rx="0" fill="#FFFDF6" stroke="#2b2420" stroke-width="0.01" stroke-linejoin="round"/>
+<rect x="0.0" y="330.0" width="640.0" height="70.0" rx="0" fill="#E6D3B3" stroke="#2b2420" stroke-width="0.01" stroke-linejoin="round"/>
+<circle cx="110.0" cy="190.0" r="72.0" fill="#4486B3" stroke="#2b2420" stroke-width="3.0" stroke-linejoin="round"/>
+<circle cx="320.0" cy="190.0" r="72.0" fill="#E9AE1C" stroke="#2b2420" stroke-width="3.0" stroke-linejoin="round"/>
+<circle cx="530.0" cy="190.0" r="72.0" fill="#4E9A4E" stroke="#2b2420" stroke-width="3.0" stroke-linejoin="round"/>
+<text x="225.0" y="215.0" font-size="80" font-weight="900" fill="#2b2420" text-anchor="middle" font-family="Nunito, Arial Rounded MT Bold, Helvetica, sans-serif">+</text>
+<text x="415.0" y="215.0" font-size="80" font-weight="900" fill="#2b2420" text-anchor="middle" font-family="Nunito, Arial Rounded MT Bold, Helvetica, sans-serif">=</text>
+</svg>
