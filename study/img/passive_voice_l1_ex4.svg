@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400">
+<rect width="640" height="400" fill="#FAEEE4"/>
+<rect x="0.0" y="0.0" width="640.0" height="400.0" rx="0" fill="#CDEBFA" stroke="#2b2420" stroke-width="0.01" stroke-linejoin="round"/>
+<path d="M 0 230 Q 160 175 330 222 Q 480 180 640 225 L 640 250 L 0 250 Z" fill="#B9DE9C" stroke="#2b2420" stroke-width="3.0" stroke-linejoin="round"/>
+<rect x="0.0" y="230.0" width="640.0" height="170.0" rx="0" fill="#A6D483" stroke="#2b2420" stroke-width="0.01" stroke-linejoin="round"/>
+<rect x="120.0" y="90.0" width="380.0" height="190.0" rx="0" fill="#F2D9A8" stroke="#2b2420" stroke-width="4" stroke-linejoin="round"/>
+<polygon points="100.0,94.0 310.0,20.0 520.0,94.0" fill="#B5533E" stroke="#2b2420" stroke-width="4" stroke-linejoin="round"/>
+<rect x="150.0" y="130.0" width="40.0" height="44.0" rx="0" fill="#7EC8E3" stroke="#2b2420" stroke-width="3" stroke-linejoin="round"/>
+<rect x="250.0" y="130.0" width="40.0" height="44.0" rx="0" fill="#7EC8E3" stroke="#2b2420" stroke-width="3" stroke-linejoin="round"/>
+<rect x="360.0" y="130.0" width="40.0" height="44.0" rx="0" fill="#7EC8E3" stroke="#2b2420" stroke-width="3" stroke-linejoin="round"/>
+<rect x="440.0" y="130.0" width="40.0" height="44.0" rx="0" fill="#7EC8E3" stroke="#2b2420" stroke-width="3" stroke-linejoin="round"/>
+<rect x="285.0" y="200.0" width="50.0" height="80.0" rx="0" fill="#8A5A34" stroke="#2b2420" stroke-width="3" stroke-linejoin="round"/>
+<rect x="280.0" y="28.0" width="8.0" height="40.0" rx="0" fill="#6B6B6B" stroke="#2b2420" stroke-width="2" stroke-linejoin="round"/>
+<rect x="288.0" y="30.0" width="40.0" height="24.0" rx="0" fill="#D9534F" stroke="#2b2420" stroke-width="2.5" stroke-linejoin="round"/>
+<rect x="520.0" y="150.0" width="100.0" height="44.0" rx="6" fill="#4486B3" stroke="#2b2420" stroke-width="3" stroke-linejoin="round"/>
+<text x="570.0" y="183.0" font-size="30" font-weight="900" fill="#FFFFFF" text-anchor="middle" font-family="Nunito, Arial Rounded MT Bold, Helvetica, sans-serif">1998</text>
+</svg>

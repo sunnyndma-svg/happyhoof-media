@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400">
+<rect width="640" height="400" fill="#FAEEE4"/>
+<rect x="0.0" y="0.0" width="640.0" height="290.0" rx="0" fill="#F6E7C8" stroke="#2b2420" stroke-width="0.01" stroke-linejoin="round"/>
+<rect x="0.0" y="290.0" width="640.0" height="110.0" rx="0" fill="#D9B88A" stroke="#2b2420" stroke-width="0.01" stroke-linejoin="round"/>
+<rect x="0.0" y="282.0" width="640.0" height="10.0" rx="0" fill="#B58E5E" stroke="#2b2420" stroke-width="0.01" stroke-linejoin="round"/>
+<rect x="440.0" y="50.0" width="120.0" height="100.0" rx="0" fill="#CDEBFA" stroke="#2b2420" stroke-width="4" stroke-linejoin="round"/>
+<polyline points="500.0,50.0 500.0,150.0" fill="none" stroke="#2b2420" stroke-width="3" stroke-linecap="round"/>
+<polyline points="440.0,100.0 560.0,100.0" fill="none" stroke="#2b2420" stroke-width="3" stroke-linecap="round"/>
+<rect x="60.0" y="50.0" width="120.0" height="86.0" rx="0" fill="#FFFFFF" stroke="#2b2420" stroke-width="3" stroke-linejoin="round"/>
+<rect x="60.0" y="50.0" width="120.0" height="24.0" rx="0" fill="#D9534F" stroke="#2b2420" stroke-width="3" stroke-linejoin="round"/>
+<text x="120.0" y="114.0" font-size="28" font-weight="900" fill="#2F6A94" text-anchor="middle" font-family="Nunito, Arial Rounded MT Bold, Helvetica, sans-serif">3 yrs</text>
+<rect x="264.0" y="298.0" width="52.0" height="11.0" rx="0" fill="#8A5A34" stroke="#2b2420" stroke-width="2.5" stroke-linejoin="round"/>
+<rect x="270.0" y="309.0" width="8.0" height="51.0" rx="0" fill="#6B4426" stroke="#2b2420" stroke-width="2" stroke-linejoin="round"/>
+<rect x="302.0" y="309.0" width="8.0" height="51.0" rx="0" fill="#6B4426" stroke="#2b2420" stroke-width="2" stroke-linejoin="round"/>
+<polyline points="290.0,224.9 307.9,255.8 341.4,255.8" fill="none" stroke="#2b2420" stroke-width="20.8" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="290.0,224.9 307.9,255.8 341.4,255.8" fill="none" stroke="#ba8d68" stroke-width="13.7" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="290.0,224.9 303.4,248.1" fill="none" stroke="#2b2420" stroke-width="26.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="290.0,224.9 303.4,248.1" fill="none" stroke="#376d92" stroke-width="18.9" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="341.4" cy="255.8" r="9.0" fill="#ba8d68" stroke="#2b2420" stroke-width="3.57" stroke-linejoin="round"/>
+<polyline points="290.0,290.0 334.1,291.5 335.6,335.6" fill="none" stroke="#2b2420" stroke-width="25.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="290.0,290.0 334.1,291.5 335.6,335.6" fill="none" stroke="#2f221a" stroke-width="17.9" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="343.0" cy="338.8" rx="13.7" ry="7.6" fill="#37271e" stroke="#2b2420" stroke-width="3.57" stroke-linejoin="round"/>
+<polyline points="290.0,283.7 290.0,230.1" fill="none" stroke="#2b2420" stroke-width="47.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="290.0,283.7 290.0,230.1" fill="none" stroke="#4486B3" stroke-width="39.9" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="290.0,290.0 334.1,288.5 331.8,332.5" fill="none" stroke="#2b2420" stroke-width="25.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="290.0,290.0 334.1,288.5 331.8,332.5" fill="none" stroke="#3A2A20" stroke-width="17.9" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="339.1" cy="335.7" rx="13.7" ry="7.6" fill="#3A2A20" stroke="#2b2420" stroke-width="3.57" stroke-linejoin="round"/>
+<polyline points="290.0,224.9 312.9,252.2 346.0,258.1" fill="none" stroke="#2b2420" stroke-width="20.8" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="290.0,224.9 312.9,252.2 346.0,258.1" fill="none" stroke="#E3AD7F" stroke-width="13.7" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="290.0,224.9 307.2,245.4" fill="none" stroke="#2b2420" stroke-width="26.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="290.0,224.9 307.2,245.4" fill="none" stroke="#4486B3" stroke-width="18.9" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="346.0" cy="258.1" r="9.0" fill="#E3AD7F" stroke="#2b2420" stroke-width="3.57" stroke-linejoin="round"/>
+<circle cx="290.0" cy="194.4" r="22.1" fill="#E3AD7F" stroke="#2b2420" stroke-width="3.57" stroke-linejoin="round"/>
+<path d="M 266.6 193.4 A 23.4 23.4 0 0 1 313.4 193.4 Q 294.2 179.8 266.6 193.4 Z" fill="#2A2220" stroke="#2b2420" stroke-width="3.57" stroke-linejoin="round"/>
+<circle cx="299.4" cy="196.5" r="3.2" fill="#2b2420" stroke="#2b2420" stroke-width="0.01" stroke-linejoin="round"/>
+<circle cx="287.9" cy="196.5" r="2.9" fill="#2b2420" stroke="#2b2420" stroke-width="0.01" stroke-linejoin="round"/>
+<path d="M 287.3 204.9 Q 293.1 210.8 299.0 204.9" fill="none" stroke="#2b2420" stroke-width="2.3" stroke-linecap="round"/>
+<g transform="rotate(-25 345 285)">
+<rect x="353.4" y="278.0" width="98.0" height="14.0" rx="0" fill="#7A4F2A" stroke="#2b2420" stroke-width="2" stroke-linejoin="round"/>
+<ellipse cx="345.0" cy="285.0" rx="36.4" ry="28.0" fill="#C48A52" stroke="#2b2420" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="345.0" cy="285.0" r="9.8" fill="#3A2A20" stroke="#2b2420" stroke-width="1.5" stroke-linejoin="round"/>
+</g>
+<text x="400.0" y="160.0" font-size="30" font-weight="900" fill="#8E6CB8" text-anchor="middle" font-family="Nunito, Arial Rounded MT Bold, Helvetica, sans-serif">♪</text>
+<text x="422.0" y="146.0" font-size="34" font-weight="900" fill="#8E6CB8" text-anchor="middle" font-family="Nunito, Arial Rounded MT Bold, Helvetica, sans-serif">♪</text>
+<text x="444.0" y="162.0" font-size="38" font-weight="900" fill="#8E6CB8" text-anchor="middle" font-family="Nunito, Arial Rounded MT Bold, Helvetica, sans-serif">♪</text>
+</svg>

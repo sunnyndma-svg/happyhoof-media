@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400">
+<rect width="640" height="400" fill="#FAEEE4"/>
+<rect x="0.0" y="0.0" width="640.0" height="400.0" rx="0" fill="#1C2A55" stroke="#2b2420" stroke-width="0.01" stroke-linejoin="round"/>
+<circle cx="540.0" cy="70.0" r="26.0" fill="#FFF3B0" stroke="#2b2420" stroke-width="2" stroke-linejoin="round"/>
+<rect x="0.0" y="300.0" width="640.0" height="100.0" rx="0" fill="#3A4A3A" stroke="#2b2420" stroke-width="0.01" stroke-linejoin="round"/>
+<rect x="150.0" y="120.0" width="340.0" height="180.0" rx="0" fill="#D9B88A" stroke="#2b2420" stroke-width="4" stroke-linejoin="round"/>
+<polygon points="130.0,124.0 320.0,40.0 510.0,124.0" fill="#6B3E3E" stroke="#2b2420" stroke-width="4" stroke-linejoin="round"/>
+<rect x="190.0" y="160.0" width="70.0" height="60.0" rx="0" fill="#2B2F3A" stroke="#2b2420" stroke-width="3" stroke-linejoin="round"/>
+<rect x="330.0" y="160.0" width="70.0" height="60.0" rx="0" fill="#2B2F3A" stroke="#2b2420" stroke-width="3" stroke-linejoin="round"/>
+<rect x="260.0" y="230.0" width="60.0" height="70.0" rx="0" fill="#4A3226" stroke="#2b2420" stroke-width="3" stroke-linejoin="round"/>
+<text x="390.0" y="205.0" font-size="28" font-weight="900" fill="#CDEBFA" text-anchor="middle" font-family="Nunito, Arial Rounded MT Bold, Helvetica, sans-serif">Z</text>
+<text x="420.0" y="175.0" font-size="38" font-weight="900" fill="#CDEBFA" text-anchor="middle" font-family="Nunito, Arial Rounded MT Bold, Helvetica, sans-serif">Z</text>
+</svg>

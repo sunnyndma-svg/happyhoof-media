@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400">
+<rect width="640" height="400" fill="#FAEEE4"/>
+<rect x="0.0" y="0.0" width="640.0" height="300.0" rx="0" fill="#EAF2E3" stroke="#2b2420" stroke-width="0.01" stroke-linejoin="round"/>
+<rect x="0.0" y="300.0" width="640.0" height="100.0" rx="0" fill="#D9B88A" stroke="#2b2420" stroke-width="0.01" stroke-linejoin="round"/>
+<rect x="0.0" y="292.0" width="640.0" height="10.0" rx="0" fill="#B58E5E" stroke="#2b2420" stroke-width="0.01" stroke-linejoin="round"/>
+<rect x="60.0" y="50.0" width="110.0" height="86.0" rx="0" fill="#FFFFFF" stroke="#2b2420" stroke-width="3" stroke-linejoin="round"/>
+<rect x="60.0" y="50.0" width="110.0" height="24.0" rx="0" fill="#D9534F" stroke="#2b2420" stroke-width="3" stroke-linejoin="round"/>
+<text x="115.0" y="114.0" font-size="28" font-weight="900" fill="#2F6A94" text-anchor="middle" font-family="Nunito, Arial Rounded MT Bold, Helvetica, sans-serif">WEEK</text>
+<rect x="200.0" y="240.0" width="260.0" height="12.0" rx="0" fill="#C48A52" stroke="#2b2420" stroke-width="3" stroke-linejoin="round"/>
+<rect x="210.0" y="252.0" width="8.0" height="60.0" rx="0" fill="#7A4F2A" stroke="#2b2420" stroke-width="2" stroke-linejoin="round"/>
+<rect x="442.0" y="252.0" width="8.0" height="60.0" rx="0" fill="#7A4F2A" stroke="#2b2420" stroke-width="2" stroke-linejoin="round"/>
+<ellipse cx="360.0" cy="232.0" rx="26.0" ry="22.0" fill="#E3AD7F" stroke="#2b2420" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M 338 224 Q 360 202 384 222 Q 370 214 338 224 Z" fill="#2A2220" stroke="#2b2420" stroke-width="2" stroke-linejoin="round"/>
+<rect x="330.0" y="236.0" width="70.0" height="16.0" rx="8" fill="#4486B3" stroke="#2b2420" stroke-width="2.5" stroke-linejoin="round"/>
+<rect x="410.0" y="200.0" width="50.0" height="38.0" rx="0" fill="#FFFFFF" stroke="#2b2420" stroke-width="2" stroke-linejoin="round"/>
+<text x="435.0" y="228.0" font-size="24" font-weight="900" fill="#D9534F" text-anchor="middle" font-family="Nunito, Arial Rounded MT Bold, Helvetica, sans-serif">1</text>
+<rect x="470.0" y="196.0" width="50.0" height="38.0" rx="0" fill="#FFFFFF" stroke="#2b2420" stroke-width="2" stroke-linejoin="round"/>
+<text x="495.0" y="224.0" font-size="24" font-weight="900" fill="#D9534F" text-anchor="middle" font-family="Nunito, Arial Rounded MT Bold, Helvetica, sans-serif">2</text>
+<rect x="530.0" y="192.0" width="50.0" height="38.0" rx="0" fill="#FFFFFF" stroke="#2b2420" stroke-width="2" stroke-linejoin="round"/>
+<text x="555.0" y="220.0" font-size="24" font-weight="900" fill="#D9534F" text-anchor="middle" font-family="Nunito, Arial Rounded MT Bold, Helvetica, sans-serif">3</text>
+</svg>
