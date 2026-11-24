@@ -12,9 +12,14 @@ study/img/         hình slide       study/audio/       audio slide
 - Không dùng khoảng trắng. **Đã đăng lên thì không đổi tên** (app nhớ theo tên; cache 1 năm). Muốn đổi hình: đặt tên mới.
 
 ## Định dạng
-- Hình thẻ: **WebP 400×400, ~20 KB**. Hình slide: **WebP 640×400, ~30 KB**.
+- Hình thẻ Flashcard: **SVG 400×400 (~2–8 KB)** cho biểu tượng + hình tự vẽ; **WebP 400×400 (~20 KB)** chỉ cho cảnh vẽ AI. Từ trừu tượng không có hình. Hình slide: **WebP 640×400, ~30 KB**.
 - Audio câu ngắn: **m4a mono 48 kbps**.
 
 ## Địa chỉ
 `https://happyhoof-media.pages.dev/flashcards/img/mau_ngua.webp` (file mẫu, xóa được sau).
 App đọc qua `mediaUrl()` trong `src/lib/media.ts` của repo chính.
+
+## Nguồn hình + giấy phép
+- **Twemoji** © X Corp & contributors — giấy phép **CC-BY 4.0** (https://creativecommons.org/licenses/by/4.0/), nguồn https://github.com/jdecked/twemoji (bản 15.1.0). Dùng trong nhiều hình `flashcards/img/**/*.svg` (có ghép, thêm nền). Ghi công trong app: chân màn Flashcards.
+- Hình SVG tự vẽ bằng code (`tools/the_tu/hinh_the.py` ở repo chính) và hình vẽ AI trên máy (Animagine XL 4.0, giấy phép openrail++): của Happy Hoof English.
+- Audio: giọng máy Kokoro-82M (Apache 2.0) chạy trên máy.
