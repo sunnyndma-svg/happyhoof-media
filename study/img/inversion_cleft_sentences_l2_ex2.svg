@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400">
+<rect width="640" height="400" fill="#FAEEE4"/>
+<rect x="0.0" y="0.0" width="640.0" height="290.0" rx="0" fill="#EAF2E3" stroke="#2b2420" stroke-width="0.01" stroke-linejoin="round"/>
+<rect x="0.0" y="290.0" width="640.0" height="110.0" rx="0" fill="#D9B88A" stroke="#2b2420" stroke-width="0.01" stroke-linejoin="round"/>
+<rect x="0.0" y="282.0" width="640.0" height="10.0" rx="0" fill="#B58E5E" stroke="#2b2420" stroke-width="0.01" stroke-linejoin="round"/>
+<rect x="380.0" y="60.0" width="200.0" height="110.0" rx="6" fill="#FFFFFF" stroke="#2b2420" stroke-width="4" stroke-linejoin="round"/>
+<text x="480.0" y="105.0" font-size="28" font-weight="900" fill="#D9534F" text-anchor="middle" font-family="Nunito, Arial Rounded MT Bold, Helvetica, sans-serif">NEW</text>
+<text x="480.0" y="145.0" font-size="28" font-weight="900" fill="#D9534F" text-anchor="middle" font-family="Nunito, Arial Rounded MT Bold, Helvetica, sans-serif">RECORD</text>
+<polyline points="220.0,231.8 196.0,203.1 186.8,169.1" fill="none" stroke="#2b2420" stroke-width="21.8" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="220.0,231.8 196.0,203.1 186.8,169.1" fill="none" stroke="#ba8d68" stroke-width="14.3" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="220.0,231.8 202.0,210.3" fill="none" stroke="#2b2420" stroke-width="27.3" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="220.0,231.8 202.0,210.3" fill="none" stroke="#376d92" stroke-width="19.8" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="186.8" cy="169.1" r="9.5" fill="#ba8d68" stroke="#2b2420" stroke-width="3.74" stroke-linejoin="round"/>
+<polyline points="220.0,300.0 216.8,346.1 215.2,392.3" fill="none" stroke="#2b2420" stroke-width="26.2" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="220.0,300.0 216.8,346.1 215.2,392.3" fill="none" stroke="#2f221a" stroke-width="18.7" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="222.9" cy="395.6" rx="14.3" ry="7.9" fill="#37271e" stroke="#2b2420" stroke-width="3.74" stroke-linejoin="round"/>
+<polyline points="220.0,293.4 220.0,237.3" fill="none" stroke="#2b2420" stroke-width="49.3" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="220.0,293.4 220.0,237.3" fill="none" stroke="#4486B3" stroke-width="41.8" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="220.0,300.0 224.0,346.0 225.6,392.2" fill="none" stroke="#2b2420" stroke-width="26.2" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="220.0,300.0 224.0,346.0 225.6,392.2" fill="none" stroke="#3A2A20" stroke-width="18.7" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="233.3" cy="395.5" rx="14.3" ry="7.9" fill="#3A2A20" stroke="#2b2420" stroke-width="3.74" stroke-linejoin="round"/>
+<polyline points="220.0,231.8 244.0,203.1 253.2,169.1" fill="none" stroke="#2b2420" stroke-width="21.8" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="220.0,231.8 244.0,203.1 253.2,169.1" fill="none" stroke="#E3AD7F" stroke-width="14.3" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="220.0,231.8 238.0,210.3" fill="none" stroke="#2b2420" stroke-width="27.3" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="220.0,231.8 238.0,210.3" fill="none" stroke="#4486B3" stroke-width="19.8" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="253.2" cy="169.1" r="9.5" fill="#E3AD7F" stroke="#2b2420" stroke-width="3.74" stroke-linejoin="round"/>
+<circle cx="220.0" cy="199.9" r="23.1" fill="#E3AD7F" stroke="#2b2420" stroke-width="3.74" stroke-linejoin="round"/>
+<path d="M 195.5 198.8 A 24.5 24.5 0 0 1 244.5 198.8 Q 224.4 184.5 195.5 198.8 Z" fill="#2A2220" stroke="#2b2420" stroke-width="3.74" stroke-linejoin="round"/>
+<circle cx="229.9" cy="202.1" r="3.3" fill="#2b2420" stroke="#2b2420" stroke-width="0.01" stroke-linejoin="round"/>
+<circle cx="217.8" cy="202.1" r="3.1" fill="#2b2420" stroke="#2b2420" stroke-width="0.01" stroke-linejoin="round"/>
+<path d="M 217.1 210.9 Q 223.3 217.1 229.5 210.9" fill="none" stroke="#2b2420" stroke-width="2.4" stroke-linecap="round"/>
+<rect x="214.4" y="149.0" width="11.2" height="42.0" rx="0" fill="#D9534F" stroke="#2b2420" stroke-width="2" stroke-linejoin="round"/>
+<circle cx="220.0" cy="205.0" r="19.6" fill="#E9AE1C" stroke="#2b2420" stroke-width="2.5" stroke-linejoin="round"/>
+<text x="220.0" y="213.4" font-size="22" font-weight="900" fill="#A85E2B" text-anchor="middle" font-family="Nunito, Arial Rounded MT Bold, Helvetica, sans-serif">1</text>
+<path d="M 473.6 252.0 L 526.4 252.0 Q 524.0 292.8 500.0 295.2 Q 476.0 292.8 473.6 252.0 Z" fill="#E9AE1C" stroke="#2b2420" stroke-width="2.5" stroke-linejoin="round"/>
+<rect x="495.2" y="292.8" width="9.6" height="16.8" rx="0" fill="#E9AE1C" stroke="#2b2420" stroke-width="2" stroke-linejoin="round"/>
+<rect x="480.8" y="309.6" width="38.4" height="9.6" rx="0" fill="#A85E2B" stroke="#2b2420" stroke-width="2" stroke-linejoin="round"/>
+</svg>

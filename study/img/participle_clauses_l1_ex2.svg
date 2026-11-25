@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400">
+<rect width="640" height="400" fill="#FAEEE4"/>
+<rect x="0.0" y="0.0" width="640.0" height="400.0" rx="0" fill="#CDEBFA" stroke="#2b2420" stroke-width="0.01" stroke-linejoin="round"/>
+<path d="M 0 250 Q 160 195 330 242 Q 480 200 640 245 L 640 270 L 0 270 Z" fill="#B9DE9C" stroke="#2b2420" stroke-width="3.0" stroke-linejoin="round"/>
+<rect x="0.0" y="250.0" width="640.0" height="150.0" rx="0" fill="#A6D483" stroke="#2b2420" stroke-width="0.01" stroke-linejoin="round"/>
+<path d="M 300 230 Q 460 20 620 230" fill="none" stroke="#E64B3C" stroke-width="9"/>
+<path d="M 300 230 Q 460 32 620 230" fill="none" stroke="#F2A93B" stroke-width="9"/>
+<path d="M 300 230 Q 460 44 620 230" fill="none" stroke="#F5D84A" stroke-width="9"/>
+<path d="M 300 230 Q 460 56 620 230" fill="none" stroke="#6BB25A" stroke-width="9"/>
+<path d="M 300 230 Q 460 68 620 230" fill="none" stroke="#4486B3" stroke-width="9"/>
+<polyline points="163.2,235.3 135.8,258.2 124.4,289.8" fill="none" stroke="#2b2420" stroke-width="20.8" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="163.2,235.3 135.8,258.2 124.4,289.8" fill="none" stroke="#ba8d68" stroke-width="13.7" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="163.2,235.3 142.7,252.5" fill="none" stroke="#2b2420" stroke-width="26.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="163.2,235.3 142.7,252.5" fill="none" stroke="#bf7187" stroke-width="18.9" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="124.4" cy="289.8" r="9.0" fill="#ba8d68" stroke="#2b2420" stroke-width="3.57" stroke-linejoin="round"/>
+<polyline points="170.0,300.0 151.4,340.0 143.7,383.4" fill="none" stroke="#2b2420" stroke-width="25.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="170.0,300.0 151.4,340.0 143.7,383.4" fill="none" stroke="#324b6a" stroke-width="17.9" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="151.1" cy="386.5" rx="13.7" ry="7.6" fill="#37271e" stroke="#2b2420" stroke-width="3.57" stroke-linejoin="round"/>
+<polyline points="170.0,293.7 163.7,240.4" fill="none" stroke="#2b2420" stroke-width="47.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="170.0,293.7 163.7,240.4" fill="none" stroke="#E98BA5" stroke-width="39.9" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="170.0,300.0 192.1,338.2 199.7,381.6" fill="none" stroke="#2b2420" stroke-width="25.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="170.0,300.0 192.1,338.2 199.7,381.6" fill="none" stroke="#3E5C82" stroke-width="17.9" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="207.1" cy="384.8" rx="13.7" ry="7.6" fill="#3A2A20" stroke="#2b2420" stroke-width="3.57" stroke-linejoin="round"/>
+<polyline points="163.2,235.3 194.1,253.1 205.6,284.7" fill="none" stroke="#2b2420" stroke-width="20.8" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="163.2,235.3 194.1,253.1 205.6,284.7" fill="none" stroke="#E3AD7F" stroke-width="13.7" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="163.2,235.3 186.4,248.6" fill="none" stroke="#2b2420" stroke-width="26.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="163.2,235.3 186.4,248.6" fill="none" stroke="#E98BA5" stroke-width="18.9" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="205.6" cy="284.7" r="9.0" fill="#E3AD7F" stroke="#2b2420" stroke-width="3.57" stroke-linejoin="round"/>
+<ellipse cx="134.8" cy="207.1" rx="10.5" ry="18.9" fill="#2A2220" stroke="#2b2420" stroke-width="3.57" stroke-linejoin="round" transform="rotate(25.0 134.8 207.1)"/>
+<circle cx="160.0" cy="205.0" r="22.1" fill="#E3AD7F" stroke="#2b2420" stroke-width="3.57" stroke-linejoin="round"/>
+<path d="M 136.6 203.9 A 23.4 23.4 0 0 1 183.4 203.9 Q 164.2 190.3 136.6 203.9 Z" fill="#2A2220" stroke="#2b2420" stroke-width="3.57" stroke-linejoin="round"/>
+<circle cx="169.5" cy="207.1" r="3.2" fill="#2b2420" stroke="#2b2420" stroke-width="0.01" stroke-linejoin="round"/>
+<circle cx="157.9" cy="207.1" r="2.9" fill="#2b2420" stroke="#2b2420" stroke-width="0.01" stroke-linejoin="round"/>
+<path d="M 157.3 215.5 Q 163.2 221.4 169.0 215.5" fill="none" stroke="#2b2420" stroke-width="2.3" stroke-linecap="round"/>
+<rect x="40.0" y="150.0" width="90.0" height="70.0" rx="0" fill="#F6E7C8" stroke="#2b2420" stroke-width="3" stroke-linejoin="round"/>
+<text x="85.0" y="195.0" font-size="14" font-weight="900" fill="#2b2420" text-anchor="middle" font-family="Nunito, Arial Rounded MT Bold, Helvetica, sans-serif">SCHOOL</text>
+</svg>

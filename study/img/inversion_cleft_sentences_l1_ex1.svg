@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400">
+<rect width="640" height="400" fill="#FAEEE4"/>
+<rect x="0.0" y="0.0" width="640.0" height="290.0" rx="0" fill="#FBE9CF" stroke="#2b2420" stroke-width="0.01" stroke-linejoin="round"/>
+<rect x="0.0" y="290.0" width="640.0" height="110.0" rx="0" fill="#D9B88A" stroke="#2b2420" stroke-width="0.01" stroke-linejoin="round"/>
+<rect x="0.0" y="282.0" width="640.0" height="10.0" rx="0" fill="#B58E5E" stroke="#2b2420" stroke-width="0.01" stroke-linejoin="round"/>
+<polyline points="120.0,254.2 125.3,284.3 127.8,313.0" fill="none" stroke="#2b2420" stroke-width="17.8" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="120.0,254.2 125.3,284.3 127.8,313.0" fill="none" stroke="#ba8d68" stroke-width="11.7" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="120.0,254.2 124.0,276.8" fill="none" stroke="#2b2420" stroke-width="22.3" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="120.0,254.2 124.0,276.8" fill="none" stroke="#376d92" stroke-width="16.2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="127.8" cy="313.0" r="7.7" fill="#ba8d68" stroke="#2b2420" stroke-width="3.06" stroke-linejoin="round"/>
+<polyline points="120.0,310.0 117.4,347.7 116.0,385.5" fill="none" stroke="#2b2420" stroke-width="21.4" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="120.0,310.0 117.4,347.7 116.0,385.5" fill="none" stroke="#2f221a" stroke-width="15.3" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="122.3" cy="388.2" rx="11.7" ry="6.5" fill="#37271e" stroke="#2b2420" stroke-width="3.06" stroke-linejoin="round"/>
+<polyline points="120.0,304.6 120.0,258.7" fill="none" stroke="#2b2420" stroke-width="40.3" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="120.0,304.6 120.0,258.7" fill="none" stroke="#4486B3" stroke-width="34.2" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="120.0,310.0 123.3,347.7 124.6,385.4" fill="none" stroke="#2b2420" stroke-width="21.4" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="120.0,310.0 123.3,347.7 124.6,385.4" fill="none" stroke="#3A2A20" stroke-width="15.3" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="130.9" cy="388.1" rx="11.7" ry="6.5" fill="#3A2A20" stroke="#2b2420" stroke-width="3.06" stroke-linejoin="round"/>
+<polyline points="120.0,254.2 135.3,280.7 145.2,307.8" fill="none" stroke="#2b2420" stroke-width="17.8" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="120.0,254.2 135.3,280.7 145.2,307.8" fill="none" stroke="#E3AD7F" stroke-width="11.7" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="120.0,254.2 131.5,274.1" fill="none" stroke="#2b2420" stroke-width="22.3" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="120.0,254.2 131.5,274.1" fill="none" stroke="#4486B3" stroke-width="16.2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="145.2" cy="307.8" r="7.7" fill="#E3AD7F" stroke="#2b2420" stroke-width="3.06" stroke-linejoin="round"/>
+<circle cx="120.0" cy="228.1" r="18.9" fill="#E3AD7F" stroke="#2b2420" stroke-width="3.06" stroke-linejoin="round"/>
+<path d="M 100.0 227.2 A 20.0 20.0 0 0 1 140.0 227.2 Q 123.6 215.5 100.0 227.2 Z" fill="#2A2220" stroke="#2b2420" stroke-width="3.06" stroke-linejoin="round"/>
+<circle cx="128.1" cy="229.9" r="2.7" fill="#2b2420" stroke="#2b2420" stroke-width="0.01" stroke-linejoin="round"/>
+<circle cx="118.2" cy="229.9" r="2.5" fill="#2b2420" stroke="#2b2420" stroke-width="0.01" stroke-linejoin="round"/>
+<path d="M 117.7 237.1 Q 122.7 242.1 127.7 237.1" fill="none" stroke="#2b2420" stroke-width="2.0" stroke-linecap="round"/>
+<polyline points="260.0,254.2 265.3,284.3 267.8,313.0" fill="none" stroke="#2b2420" stroke-width="17.8" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="260.0,254.2 265.3,284.3 267.8,313.0" fill="none" stroke="#c8ac90" stroke-width="11.7" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="260.0,254.2 264.0,276.8" fill="none" stroke="#2b2420" stroke-width="22.3" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="260.0,254.2 264.0,276.8" fill="none" stroke="#bf8e16" stroke-width="16.2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="267.8" cy="313.0" r="7.7" fill="#c8ac90" stroke="#2b2420" stroke-width="3.06" stroke-linejoin="round"/>
+<polyline points="260.0,310.0 257.4,347.7 256.0,385.5" fill="none" stroke="#2b2420" stroke-width="19.6" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="260.0,310.0 257.4,347.7 256.0,385.5" fill="none" stroke="#c8ac90" stroke-width="13.5" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="262.3" cy="388.2" rx="11.7" ry="6.5" fill="#37271e" stroke="#2b2420" stroke-width="3.06" stroke-linejoin="round"/>
+<polyline points="260.0,304.6 260.0,258.7" fill="none" stroke="#2b2420" stroke-width="40.3" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="260.0,304.6 260.0,258.7" fill="none" stroke="#E9AE1C" stroke-width="34.2" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="243.8,302.8 276.2,302.8 285.2,333.4 234.8,333.4" fill="#2E9C93" stroke="#2b2420" stroke-width="3.06" stroke-linejoin="round"/>
+<polyline points="260.0,310.0 263.3,347.7 264.6,385.4" fill="none" stroke="#2b2420" stroke-width="19.6" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="260.0,310.0 263.3,347.7 264.6,385.4" fill="none" stroke="#F5D2B0" stroke-width="13.5" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="270.9" cy="388.1" rx="11.7" ry="6.5" fill="#3A2A20" stroke="#2b2420" stroke-width="3.06" stroke-linejoin="round"/>
+<polyline points="260.0,254.2 275.3,280.7 285.2,307.8" fill="none" stroke="#2b2420" stroke-width="17.8" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="260.0,254.2 275.3,280.7 285.2,307.8" fill="none" stroke="#F5D2B0" stroke-width="11.7" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="260.0,254.2 271.5,274.1" fill="none" stroke="#2b2420" stroke-width="22.3" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="260.0,254.2 271.5,274.1" fill="none" stroke="#E9AE1C" stroke-width="16.2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="285.2" cy="307.8" r="7.7" fill="#F5D2B0" stroke="#2b2420" stroke-width="3.06" stroke-linejoin="round"/>
+<ellipse cx="248.3" cy="238.9" rx="13.5" ry="27.0" fill="#6B3E22" stroke="#2b2420" stroke-width="3.06" stroke-linejoin="round"/>
+<circle cx="260.0" cy="228.1" r="18.9" fill="#F5D2B0" stroke="#2b2420" stroke-width="3.06" stroke-linejoin="round"/>
+<path d="M 240.0 227.2 A 20.0 20.0 0 0 1 280.0 227.2 Q 263.6 215.5 240.0 227.2 Z" fill="#6B3E22" stroke="#2b2420" stroke-width="3.06" stroke-linejoin="round"/>
+<circle cx="268.1" cy="229.9" r="2.7" fill="#2b2420" stroke="#2b2420" stroke-width="0.01" stroke-linejoin="round"/>
+<circle cx="258.2" cy="229.9" r="2.5" fill="#2b2420" stroke="#2b2420" stroke-width="0.01" stroke-linejoin="round"/>
+<path d="M 257.7 237.1 Q 262.7 242.1 267.7 237.1" fill="none" stroke="#2b2420" stroke-width="2.0" stroke-linecap="round"/>
+<polyline points="520.0,254.2 514.7,284.3 512.2,313.0" fill="none" stroke="#2b2420" stroke-width="17.8" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="520.0,254.2 514.7,284.3 512.2,313.0" fill="none" stroke="#ba8d68" stroke-width="11.7" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="520.0,254.2 516.0,276.8" fill="none" stroke="#2b2420" stroke-width="22.3" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="520.0,254.2 516.0,276.8" fill="none" stroke="#b14440" stroke-width="16.2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="512.2" cy="313.0" r="7.7" fill="#ba8d68" stroke="#2b2420" stroke-width="3.06" stroke-linejoin="round"/>
+<polyline points="520.0,310.0 522.6,347.7 524.0,385.5" fill="none" stroke="#2b2420" stroke-width="21.4" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="520.0,310.0 522.6,347.7 524.0,385.5" fill="none" stroke="#324b6a" stroke-width="15.3" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="517.7" cy="388.2" rx="11.7" ry="6.5" fill="#37271e" stroke="#2b2420" stroke-width="3.06" stroke-linejoin="round"/>
+<polyline points="520.0,304.6 520.0,258.7" fill="none" stroke="#2b2420" stroke-width="40.3" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="520.0,304.6 520.0,258.7" fill="none" stroke="#D9534F" stroke-width="34.2" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="520.0,310.0 516.7,347.7 515.4,385.4" fill="none" stroke="#2b2420" stroke-width="21.4" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="520.0,310.0 516.7,347.7 515.4,385.4" fill="none" stroke="#3E5C82" stroke-width="15.3" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="509.1" cy="388.1" rx="11.7" ry="6.5" fill="#3A2A20" stroke="#2b2420" stroke-width="3.06" stroke-linejoin="round"/>
+<polyline points="520.0,254.2 504.7,280.7 494.8,307.8" fill="none" stroke="#2b2420" stroke-width="17.8" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="520.0,254.2 504.7,280.7 494.8,307.8" fill="none" stroke="#E3AD7F" stroke-width="11.7" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="520.0,254.2 508.5,274.1" fill="none" stroke="#2b2420" stroke-width="22.3" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="520.0,254.2 508.5,274.1" fill="none" stroke="#D9534F" stroke-width="16.2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="494.8" cy="307.8" r="7.7" fill="#E3AD7F" stroke="#2b2420" stroke-width="3.06" stroke-linejoin="round"/>
+<circle cx="532.6" cy="211.9" r="9.9" fill="#2A2220" stroke="#2b2420" stroke-width="3.06" stroke-linejoin="round"/>
+<circle cx="520.0" cy="228.1" r="18.9" fill="#E3AD7F" stroke="#2b2420" stroke-width="3.06" stroke-linejoin="round"/>
+<path d="M 540.0 227.2 A 20.0 20.0 0 0 0 500.0 227.2 Q 516.4 215.5 540.0 227.2 Z" fill="#2A2220" stroke="#2b2420" stroke-width="3.06" stroke-linejoin="round"/>
+<circle cx="511.9" cy="229.9" r="2.7" fill="#2b2420" stroke="#2b2420" stroke-width="0.01" stroke-linejoin="round"/>
+<circle cx="521.8" cy="229.9" r="2.5" fill="#2b2420" stroke="#2b2420" stroke-width="0.01" stroke-linejoin="round"/>
+<path d="M 512.3 237.1 Q 517.3 242.1 522.3 237.1" fill="none" stroke="#2b2420" stroke-width="2.0" stroke-linecap="round"/>
+<polyline points="390.0,234.9 367.1,207.6 358.4,175.1" fill="none" stroke="#2b2420" stroke-width="20.8" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="390.0,234.9 367.1,207.6 358.4,175.1" fill="none" stroke="#ba8d68" stroke-width="13.7" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="390.0,234.9 372.8,214.4" fill="none" stroke="#2b2420" stroke-width="26.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="390.0,234.9 372.8,214.4" fill="none" stroke="#bf7187" stroke-width="18.9" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="358.4" cy="175.1" r="9.0" fill="#ba8d68" stroke="#2b2420" stroke-width="3.57" stroke-linejoin="round"/>
+<polyline points="390.0,300.0 386.9,344.0 385.4,388.1" fill="none" stroke="#2b2420" stroke-width="25.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="390.0,300.0 386.9,344.0 385.4,388.1" fill="none" stroke="#324b6a" stroke-width="17.9" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="392.7" cy="391.2" rx="13.7" ry="7.6" fill="#37271e" stroke="#2b2420" stroke-width="3.57" stroke-linejoin="round"/>
+<polyline points="390.0,293.7 390.0,240.1" fill="none" stroke="#2b2420" stroke-width="47.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="390.0,293.7 390.0,240.1" fill="none" stroke="#E98BA5" stroke-width="39.9" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="390.0,300.0 393.8,343.9 395.4,388.0" fill="none" stroke="#2b2420" stroke-width="25.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="390.0,300.0 393.8,343.9 395.4,388.0" fill="none" stroke="#3E5C82" stroke-width="17.9" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="402.7" cy="391.2" rx="13.7" ry="7.6" fill="#3A2A20" stroke="#2b2420" stroke-width="3.57" stroke-linejoin="round"/>
+<polyline points="390.0,234.9 412.9,207.6 421.6,175.1" fill="none" stroke="#2b2420" stroke-width="20.8" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="390.0,234.9 412.9,207.6 421.6,175.1" fill="none" stroke="#E3AD7F" stroke-width="13.7" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="390.0,234.9 407.2,214.4" fill="none" stroke="#2b2420" stroke-width="26.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="390.0,234.9 407.2,214.4" fill="none" stroke="#E98BA5" stroke-width="18.9" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="421.6" cy="175.1" r="9.0" fill="#E3AD7F" stroke="#2b2420" stroke-width="3.57" stroke-linejoin="round"/>
+<ellipse cx="364.8" cy="206.5" rx="10.5" ry="18.9" fill="#2A2220" stroke="#2b2420" stroke-width="3.57" stroke-linejoin="round" transform="rotate(25.0 364.8 206.5)"/>
+<circle cx="390.0" cy="204.4" r="22.1" fill="#E3AD7F" stroke="#2b2420" stroke-width="3.57" stroke-linejoin="round"/>
+<path d="M 366.6 203.4 A 23.4 23.4 0 0 1 413.4 203.4 Q 394.2 189.8 366.6 203.4 Z" fill="#2A2220" stroke="#2b2420" stroke-width="3.57" stroke-linejoin="round"/>
+<circle cx="399.4" cy="206.5" r="3.2" fill="#2b2420" stroke="#2b2420" stroke-width="0.01" stroke-linejoin="round"/>
+<circle cx="387.9" cy="206.5" r="2.9" fill="#2b2420" stroke="#2b2420" stroke-width="0.01" stroke-linejoin="round"/>
+<path d="M 387.3 214.9 Q 393.1 220.8 399.0 214.9" fill="none" stroke="#2b2420" stroke-width="2.3" stroke-linecap="round"/>
+<path d="M 361.4 98.0 L 418.6 98.0 Q 416.0 142.2 390.0 144.8 Q 364.0 142.2 361.4 98.0 Z" fill="#E9AE1C" stroke="#2b2420" stroke-width="2.5" stroke-linejoin="round"/>
+<rect x="384.8" y="142.2" width="10.4" height="18.2" rx="0" fill="#E9AE1C" stroke="#2b2420" stroke-width="2" stroke-linejoin="round"/>
+<rect x="369.2" y="160.4" width="41.6" height="10.4" rx="0" fill="#A85E2B" stroke="#2b2420" stroke-width="2" stroke-linejoin="round"/>
+<text x="390.0" y="40.0" font-size="28" font-weight="900" fill="#D9534F" text-anchor="middle" font-family="Nunito, Arial Rounded MT Bold, Helvetica, sans-serif">WINNER</text>
+</svg>

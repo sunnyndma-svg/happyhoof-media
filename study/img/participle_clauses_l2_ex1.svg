@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400">
+<rect width="640" height="400" fill="#FAEEE4"/>
+<rect x="0.0" y="0.0" width="640.0" height="290.0" rx="0" fill="#EAF2E3" stroke="#2b2420" stroke-width="0.01" stroke-linejoin="round"/>
+<rect x="0.0" y="290.0" width="640.0" height="110.0" rx="0" fill="#D9B88A" stroke="#2b2420" stroke-width="0.01" stroke-linejoin="round"/>
+<rect x="0.0" y="282.0" width="640.0" height="10.0" rx="0" fill="#B58E5E" stroke="#2b2420" stroke-width="0.01" stroke-linejoin="round"/>
+<rect x="70.0" y="220.0" width="160.0" height="14.0" rx="0" fill="#C48A52" stroke="#2b2420" stroke-width="3" stroke-linejoin="round"/>
+<polygon points="90.8,199.2 110.0,205.6 110.0,224.8 90.8,218.4" fill="#4486B3" stroke="#2b2420" stroke-width="2.4000000000000004" stroke-linejoin="round"/>
+<polygon points="129.2,199.2 110.0,205.6 110.0,224.8 129.2,218.4" fill="#FFFFFF" stroke="#2b2420" stroke-width="2.4000000000000004" stroke-linejoin="round"/>
+<polygon points="150.8,199.2 170.0,205.6 170.0,224.8 150.8,218.4" fill="#4E9A4E" stroke="#2b2420" stroke-width="2.4000000000000004" stroke-linejoin="round"/>
+<polygon points="189.2,199.2 170.0,205.6 170.0,224.8 189.2,218.4" fill="#FFFFFF" stroke="#2b2420" stroke-width="2.4000000000000004" stroke-linejoin="round"/>
+<text x="140.0" y="190.0" font-size="22" font-weight="900" fill="#4E9A4E" text-anchor="middle" font-family="Nunito, Arial Rounded MT Bold, Helvetica, sans-serif">DONE!</text>
+<rect x="300.0" y="250.0" width="260.0" height="70.0" rx="16" fill="#6F9FC4" stroke="#2b2420" stroke-width="3.0" stroke-linejoin="round"/>
+<rect x="286.0" y="284.0" width="24.0" height="52.0" rx="10" fill="#5C8DB5" stroke="#2b2420" stroke-width="3.0" stroke-linejoin="round"/>
+<rect x="550.0" y="284.0" width="24.0" height="52.0" rx="10" fill="#5C8DB5" stroke="#2b2420" stroke-width="3.0" stroke-linejoin="round"/>
+<rect x="300.0" y="284.0" width="260.0" height="52.0" rx="12" fill="#5C8DB5" stroke="#2b2420" stroke-width="3.0" stroke-linejoin="round"/>
+<polyline points="430.0,241.1 424.4,272.9 421.7,303.2" fill="none" stroke="#2b2420" stroke-width="18.8" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="430.0,241.1 424.4,272.9 421.7,303.2" fill="none" stroke="#ba8d68" stroke-width="12.3" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="430.0,241.1 425.8,265.0" fill="none" stroke="#2b2420" stroke-width="23.6" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="430.0,241.1 425.8,265.0" fill="none" stroke="#376d92" stroke-width="17.1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="421.7" cy="303.2" r="8.2" fill="#ba8d68" stroke="#2b2420" stroke-width="3.23" stroke-linejoin="round"/>
+<polyline points="430.0,300.0 432.8,339.8 434.2,379.7" fill="none" stroke="#2b2420" stroke-width="22.6" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="430.0,300.0 432.8,339.8 434.2,379.7" fill="none" stroke="#2f221a" stroke-width="16.1" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="427.5" cy="382.5" rx="12.3" ry="6.8" fill="#37271e" stroke="#2b2420" stroke-width="3.23" stroke-linejoin="round"/>
+<polyline points="430.0,294.3 430.0,245.8" fill="none" stroke="#2b2420" stroke-width="42.6" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="430.0,294.3 430.0,245.8" fill="none" stroke="#4486B3" stroke-width="36.1" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="430.0,300.0 426.5,339.7 425.1,379.6" fill="none" stroke="#2b2420" stroke-width="22.6" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="430.0,300.0 426.5,339.7 425.1,379.6" fill="none" stroke="#3A2A20" stroke-width="16.1" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="418.5" cy="382.5" rx="12.3" ry="6.8" fill="#3A2A20" stroke="#2b2420" stroke-width="3.23" stroke-linejoin="round"/>
+<polyline points="430.0,241.1 405.3,261.9 378.9,277.1" fill="none" stroke="#2b2420" stroke-width="18.8" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="430.0,241.1 405.3,261.9 378.9,277.1" fill="none" stroke="#E3AD7F" stroke-width="12.3" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="430.0,241.1 411.4,256.7" fill="none" stroke="#2b2420" stroke-width="23.6" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="430.0,241.1 411.4,256.7" fill="none" stroke="#4486B3" stroke-width="17.1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="378.9" cy="277.1" r="8.2" fill="#E3AD7F" stroke="#2b2420" stroke-width="3.23" stroke-linejoin="round"/>
+<circle cx="430.0" cy="213.6" r="19.9" fill="#E3AD7F" stroke="#2b2420" stroke-width="3.23" stroke-linejoin="round"/>
+<path d="M 451.1 212.6 A 21.1 21.1 0 0 0 408.9 212.6 Q 426.2 200.2 451.1 212.6 Z" fill="#2A2220" stroke="#2b2420" stroke-width="3.23" stroke-linejoin="round"/>
+<circle cx="421.4" cy="215.5" r="2.8" fill="#2b2420" stroke="#2b2420" stroke-width="0.01" stroke-linejoin="round"/>
+<circle cx="431.9" cy="215.5" r="2.7" fill="#2b2420" stroke="#2b2420" stroke-width="0.01" stroke-linejoin="round"/>
+<path d="M 421.8 223.1 Q 427.1 228.4 432.5 223.1" fill="none" stroke="#2b2420" stroke-width="2.1" stroke-linecap="round"/>
+<rect x="400.0" y="235.0" width="50.0" height="22.0" rx="8" fill="#2F3338" stroke="#2b2420" stroke-width="2.5" stroke-linejoin="round"/>
+<rect x="500.0" y="90.0" width="100.0" height="70.0" rx="6" fill="#2F3338" stroke="#2b2420" stroke-width="3" stroke-linejoin="round"/>
+<text x="550.0" y="135.0" font-size="22" font-weight="900" fill="#7EC8E3" text-anchor="middle" font-family="Nunito, Arial Rounded MT Bold, Helvetica, sans-serif">GAME</text>
+</svg>
